@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2020-03-17 15:44:35</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 15:06:40</sys_created_on>
+        <sys_id>162a862adb2b40106b3b5c7a48961988</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>f8jCeo4clrE:APA91bGhYSmSrTP9IDV0v_s0dBBvFm1PltbEZBVN8fz_prVcPobB2CbgN90GRzp_KfcgWqJNjWckHZ63PWmZ4fIFztnRJIWdCJi4EogRuRTNR6BvuT4Ot5zZxYl0Zy0mfyBqbw2JvVeo</sys_name>
+        <sys_package display_value="Shopping List" source="x_471562_shopping">0ea5c2a2db2b40106b3b5c7a48961925</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Shopping List">0ea5c2a2db2b40106b3b5c7a48961925</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_162a862adb2b40106b3b5c7a48961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 15:44:35</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>f8jCeo4clrE:APA91bGhYSmSrTP9IDV0v_s0dBBvFm1PltbEZBVN8fz_prVcPobB2CbgN90GRzp_KfcgWqJNjWckHZ63PWmZ4fIFztnRJIWdCJi4EogRuRTNR6BvuT4Ot5zZxYl0Zy0mfyBqbw2JvVeo</token>
+    </sys_push_notif_app_install>
+</record_update>
